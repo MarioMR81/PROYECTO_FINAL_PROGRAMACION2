@@ -14,6 +14,10 @@ Acontinuacion Veremos una breve explicacion a traves de un manual de usuario o d
 
 1....Introducción
 
+Ahora podremos conocer mas sobre algunos puntos muy importantes del programa, para conocer a profundidad las distintas opciones como funcionan y cual es su mayor utilidad dentro del programa o pagina web todo esto implementado en un manual tecnico con algunos objetivos, pasos sobre el funcionamiento, soluciones de algunos problemas que se pueden presentar si la pagina web en conjunto con el programa y base datos no son ejecutados o manejados de una manera correcta, explicado paso por paso con la finalidad de lograr el mayor potencial de dicho programa para conocer distintas noticias que se pueden presentar en nuestro dia a dia y como funcionan dichas noticias en conjunto con sus comentarios
+
+![3](https://user-images.githubusercontent.com/91577396/198792837-5792f375-1a20-4c7f-bfe6-8bd44a2c94db.jpeg)
+
 2....Objetivos
 
 3....Descripcion de Uso de las funciones del Programa
