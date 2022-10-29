@@ -49,6 +49,15 @@ Luego podemos presenciar la opcion nuemero 2 la cual es consultar noticias y pos
 
 ![image](https://user-images.githubusercontent.com/91577396/198812672-08348255-5bc5-4b9b-b097-d534357acf11.png)
 
+Ahora veamos la opcion al momento de ingresar a la opcion de consultar noticias, como se puede ver se han agregado por lo menos 30 noticias del New York Times dentro de la pagina cada una ira actualizando segun el New York Times al igual se puede presenciar el autor, la descripcion del articulo.
+
+![image](https://user-images.githubusercontent.com/91577396/198812933-104c00a4-12e8-4307-99c3-066acf7ed105.png)
+
+Ahora al momento de ingresar a un articulo se redirecionara a otra pestaña la cual nos permitira leer el articulo y tambien ver una imagen en conjunto con el post de agregar un comentario el cual debe ser ingresado por el usuario, el comentario no posee un cierto limite de letras o palabras dentro del textbox, por lo que al momento de ingresar el comentario y tambien el nombre de la persona que ingresda el comentario debe de publicarlo
+
+![Uploading image.png…]()
+
+
 
 4....Solucion de Algunos Problemas
 
