@@ -20,7 +20,19 @@ Ahora podremos conocer mas sobre algunos puntos muy importantes del programa, pa
 
 2....Objetivos
 
+Entender el funcionamiento de una base de datos en conjunto con HTML y JavaScript, la conectividad que puede existir entre ambos al crear una aplicacion, lo importante que puede ser el almacenar datos dentro de una Base de datos para luego poder presentarlos sin modificar los datos y en su maxima funcionalidad, ademas de tener registro dentro de una aplicacion con el simple hecho de saber como conectar una base de datos con diferentes lenguajes de programacion.
+
+Conocer como funciona una pagina web a nivel mundial ya que se puede decir que se ha tomado como referencia la pagina del New York times para presentar sus articulos con un cierto orden y comentarlos todo esto para saber como hoy en dia funcionan las paginas web al igual como funcionan al momento de ingresar datos en ellas y como presentarlos.
+
+Reconer el manejo de tablas, consultas, orden, etc. Dentro de una Base de datos para presentar datos en cualquier momento que sean requeridos por el usuario tambien como almacenar esos datos, incluso el manejo de una base de datos dentro de una pagina web y asi mismo su programacion.
+
+Brindar el conocimiento sobre el como pueden funcionar en armonia el lenguaje HTML en conjunto con las base de datos y ademas el lenguaje que se utilice para conectar estos puntos muy importantes tambien el reconocer como diseñar una pagina web desde cero utilizando o no un framework para el diseño o con tan solo programa en un simple index desde cero sin utilizar apoyo sobre el material externo ambos recursos utilizados y presentados.
+
 3....Descripcion de Uso de las funciones del Programa
+
+Acontinuacion veremos algunas funciones muy importantes dentro del programa pero veamos el inicio como sabemos el proyecto o pagina web debio ser publicado utilizando un servidor, el que se utilzo a continuacion fue el servido de tomcat el cual ayudo a publicar la pagina web dentro de un local Host.
+
+
 
 4....Solucion de Algunos Problemas
 
