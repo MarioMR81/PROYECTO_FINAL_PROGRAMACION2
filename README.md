@@ -55,14 +55,31 @@ Ahora veamos la opcion al momento de ingresar a la opcion de consultar noticias,
 
 Ahora al momento de ingresar a un articulo se redirecionara a otra pestaña la cual nos permitira leer el articulo y tambien ver una imagen en conjunto con el post de agregar un comentario el cual debe ser ingresado por el usuario, el comentario no posee un cierto limite de letras o palabras dentro del textbox, por lo que al momento de ingresar el comentario y tambien el nombre de la persona que ingresda el comentario debe de publicarlo
 
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/91577396/198813077-cf000f73-9d66-4d45-a610-087934f85871.png)
 
+![image](https://user-images.githubusercontent.com/91577396/198813170-5b53b1fb-218a-44d3-95dd-ab4e6c039bbd.png)
 
+Al momento de ingresar el comentario el usuario debe de ingresar su nombre y presionar el boton de Post comment el cual nos ayudara a ingresar el comentario no solamente dentro de la pagina web si no tambien en la base de datos ahora veamos en que afecta esto a las consultas.
+
+![image](https://user-images.githubusercontent.com/91577396/198813203-0bb48f40-bf4c-4794-adde-ec128ab84b03.png)
+
+Cuando presionamos nuestro boton de post comment y recargamos la pagina de igual manera debemos de regresar a la opcion de consultar articulo para que veamos como el articulo fue publicado ahi tambien
+
+![image](https://user-images.githubusercontent.com/91577396/198813271-3ca80fb2-3c66-4e6c-9025-792afc186dd1.png)
+
+Como podemos ver el articulo se ha creado dentro de la visualizacion de la tarjeta del articulo esto es la principal funcion al momento de crear un articulo, sobre como debemos de ingresarlo, como se debe de publicar y en donde apareceria dicho articulo dentro de consultas, ahora que hemos visto mas sobre las consultas veamos el ultimo punto que es el mostrar el top 3 de comentarios de los articulo, debemos de regresar a la pagina principal y seleccionar la opcion la cual deberia de desplegarnos los articulos que no solamente fueron publicados en la opcion 2 sino tambien en la base de datos.
+
+![image](https://user-images.githubusercontent.com/91577396/198813381-552fa03d-bbf5-41fd-80bf-fa40a0bc3b1a.png)
 
 4....Solucion de Algunos Problemas
 
+Algunos de los problemas que se pueden presentar dentro de la pagina web es posiblementa la conexion de la base de datos con dicha pagina web al momento de ingresar un comentario o al momento de visualizar los articulos aunque se han realizado varias pruebas y es muy improbable si se siguen los pasos presentados en esta documentacion tambien incluso no siguiendo los pasos no es un problema recurrente pero siempre se recomienda ejecutar la base otra vez si este problema se presenta.
+
+Tambien se debe recordar que la pagina debe ser utilizada de la manera mas adecuada para no sobrecargar las opciones que se presetan y sea utilizada en un nivel muy alto sin tener que estar recargando la pagina Web en cada momento o ingresando los comentarios a cada rato.
+
 5....Contactos
+
+Mario Quiñonez 7690-21-2086 Programacion 2 Universidad Mariano Galvez Facultad de Ingenieria en Sistemas 
 
 6....Diagrama de Clases
 
-# Introducción
