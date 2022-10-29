@@ -5,11 +5,11 @@ Mario Quiñonez 7690-21-2086 Programacion 2 Universidad Mariano Galvez Facultad 
 # Descripccion
 
 # MANUAL DE USUARIO
+![4](https://user-images.githubusercontent.com/91577396/198782298-d4f57cce-33c9-4589-99da-c7d9bcd0a950.jpg)
 
 
 # Indice
 
-![3](https://user-images.githubusercontent.com/91577396/198781826-4215dcd5-43f4-40e9-8a8f-28dbb88f55ac.jpg)
 
 1....Introducción
 
