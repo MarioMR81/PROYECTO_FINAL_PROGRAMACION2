@@ -32,6 +32,7 @@ Brindar el conocimiento sobre el como pueden funcionar en armonia el lenguaje HT
 
 Acontinuacion veremos algunas funciones muy importantes dentro del programa pero veamos el inicio como sabemos el proyecto o pagina web debio ser publicado utilizando un servidor, el que se utilzo a continuacion fue el servido de tomcat el cual ayudo a publicar la pagina web dentro de un local Host.
 
+![5](https://user-images.githubusercontent.com/91577396/198808924-add01de5-fb61-42fd-8a50-5ac1fa2939df.png)
 
 
 4....Solucion de Algunos Problemas
