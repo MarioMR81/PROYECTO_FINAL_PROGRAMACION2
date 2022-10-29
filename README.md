@@ -34,6 +34,21 @@ Acontinuacion veremos algunas funciones muy importantes dentro del programa pero
 
 ![5](https://user-images.githubusercontent.com/91577396/198808924-add01de5-fb61-42fd-8a50-5ac1fa2939df.png)
 
+Al momento de estar publicado del proyecto y tener acceso a la pagina web principal se presentaran las siguientes opciones las cuales tendran una funcionalidad especifica tomando en cuenta y posiblemente las mas importante el consultar noticias ya que todo surge a traves de esta ventana, al momento de presionar una opcion como se puede ver en la pantalla se redireccionara a otra pestaña de la misma pagina principal, tendremos tres opcciones:
+1 Informacion incial automatico
+2 Consultar las noticias
+3 Top generado de los tres articulos con mas comentarios
+
+![image](https://user-images.githubusercontent.com/91577396/198812193-0dff0551-884c-4496-8d69-0aaf5f657eb8.png)
+
+Como siguiente punto tendremos la primera opcion que seria el presentar la informacion inicial dependiendo que informacion ingresemos dentro del programa se puede presentar en esta pestaña pues no tiene una gran utilidad dentro del programa como sabemos 
+
+![image](https://user-images.githubusercontent.com/91577396/198812568-db0d66b7-401f-4db6-a95a-46be587190bd.png)
+
+Luego podemos presenciar la opcion nuemero 2 la cual es consultar noticias y posiblemente la mas importante de las opciones como sabemos al momento de generar la base de datos esta guarda al menos 30 noticias de ultima hora del New York Times la cual esta al macenada en la base de datos veamos la informacion dentro de la base de datos
+
+![image](https://user-images.githubusercontent.com/91577396/198812672-08348255-5bc5-4b9b-b097-d534357acf11.png)
+
 
 4....Solucion de Algunos Problemas
 
