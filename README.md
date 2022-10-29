@@ -83,3 +83,4 @@ Mario Quiñonez 7690-21-2086 Programacion 2 Universidad Mariano Galvez Facultad 
 
 6....Diagrama de Clases
 
+![image](https://user-images.githubusercontent.com/91577396/198813831-b7eb5cdc-904d-4d0d-8090-7f69e3d8544d.png)
