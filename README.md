@@ -7,7 +7,8 @@ Acontinuacion Veremos una breve explicacion a traves de un manual de usuario o d
 
 
 # MANUAL DE USUARIO
-![4](https://user-images.githubusercontent.com/91577396/198782298-d4f57cce-33c9-4589-99da-c7d9bcd0a950.jpg)
+       
+      ![4](https://user-images.githubusercontent.com/91577396/198782298-d4f57cce-33c9-4589-99da-c7d9bcd0a950.jpg)
 
 # Indice
 
