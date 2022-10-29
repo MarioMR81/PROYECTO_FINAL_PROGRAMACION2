@@ -1,0 +1,17 @@
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-size: 500%;
+}
+li a {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-size: 150%;
+    display: flex;
+    justify-content: center;
+
+}
+body {
+    background-image: url("img/imagen.jpg");
+    background-size: cover;
+}
